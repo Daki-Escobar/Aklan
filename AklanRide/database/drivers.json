@@ -1,0 +1,31 @@
+[
+    {
+        "id": "DR0005",
+        "name": "Ipay",
+        "contact": "09542794014",
+        "vehicle": "Motorcycle",
+        "status": "Available"
+    },
+    {
+        "id": "DRV0002",
+        "name": "Christian Cabales",
+        "username": "Cabales",
+        "password": "123",
+        "contact": "09542794015",
+        "address": "Albasan, Numancia, Aklan",
+        "vehicle": "Tricycle",
+        "license": "048",
+        "status": "Available"
+    },
+    {
+        "id": "DRV0003",
+        "name": "Daki Escobar",
+        "username": "LAGRAFICO",
+        "password": "123",
+        "contact": "09542794016",
+        "address": "Kalibo, Aklan",
+        "vehicle": "Tricycle",
+        "license": "050",
+        "status": "Available"
+    }
+]

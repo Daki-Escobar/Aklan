@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1783247381,
+        "name": "Arjie Quives",
+        "email": "Arjie@gmail.com",
+        "password": "$2y$10$pH\/zn6g0IfvocpoD9QAureJoZy0xqsgody6aZ2OpRfyUdeyq.nP.i",
+        "role": "user"
+    },
+    {
+        "id": 1783252404,
+        "name": "Christian Cabales",
+        "email": "Ipay@gmail.com",
+        "password": "$2y$10$UV.vLmH6mRRuYIgS5FUt7uGaRznJ25Wzh2CqexvcrdJwCU5LaqmtS",
+        "role": "user"
+    },
+    {
+        "id": 1,
+        "name": "Administrator",
+        "email": "admin@aklanride.com",
+        "password": "$2y$10$ZD2AycqW0kMQ\/\/NPjfYvO.tlM5SRmutFdAopJS1dlXyJwi.tX5iTi",
+        "role": "admin"
+    },
+    {
+        "id": 1783259302,
+        "name": "Daki Escobar",
+        "email": "daki123@gmail.com",
+        "password": "$2y$10$JT5P7osJeuonFeF7HB.EDu7NFL9yHiDImQcbjID6bxMsnjavDHApK",
+        "role": "user"
+    },
+    {
+        "id": 1783350103,
+        "name": "Christian Cabales",
+        "email": "namo143@gmail.com",
+        "password": "$2y$10$RfUhuvI.\/BVEVL05NpZqP.UB4CxUPxUhw\/JOW1Q3Ov2NWx\/VdL2xO",
+        "role": "user"
+    },
+    {
+        "id": 1783384756,
+        "name": "Christian R. Cabales",
+        "email": "cabaleschristian4171@gmail.com",
+        "password": "$2y$10$eP\/vTjEOkzVcGB0kypMwRuslyZCJUHOATwz0123GDVe1T59LZpIxa",
+        "role": "user"
+    }
+]

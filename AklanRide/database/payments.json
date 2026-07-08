@@ -1,0 +1,58 @@
+[
+    {
+        "booking_id": 1783261104765,
+        "user_id": 1783247381,
+        "method": "GCash",
+        "fare": "80",
+        "status": "Paid",
+        "date": "2026-07-05 16:18:24"
+    },
+    {
+        "booking_id": 1783302623175,
+        "user_id": 1783247381,
+        "method": "GCash",
+        "fare": "80",
+        "status": "Paid",
+        "date": "2026-07-06 03:50:23"
+    },
+    {
+        "booking_id": 1783339929921,
+        "user_id": 1783247381,
+        "method": "GCash",
+        "fare": "120",
+        "status": "Paid",
+        "date": "2026-07-06 14:12:09"
+    },
+    {
+        "booking_id": 1783343486977,
+        "user_id": 1783247381,
+        "method": "Cash",
+        "fare": "80",
+        "status": "Paid",
+        "date": "2026-07-06 15:11:27"
+    },
+    {
+        "booking_id": 1783346546549,
+        "user_id": 1783247381,
+        "method": "GCash",
+        "fare": "80",
+        "status": "Paid",
+        "date": "2026-07-06 16:02:26"
+    },
+    {
+        "booking_id": 1783384850936,
+        "user_id": 1783384756,
+        "method": "GCash",
+        "fare": "80",
+        "status": "Paid",
+        "date": "2026-07-07 02:40:51"
+    },
+    {
+        "booking_id": 1783470607406,
+        "user_id": 1783247381,
+        "method": "GCash",
+        "fare": "80",
+        "status": "Paid",
+        "date": "2026-07-08 02:30:07"
+    }
+]
